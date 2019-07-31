@@ -19,3 +19,23 @@ This example will illustrate how to set permission in drf based on user group.
 6. Run server
     ```python
     python manage.py runserver
+
+#### Two groups
+1. Admin
+2. Anonymous
+
+**Admin** group user can 
+1. Login
+2. Add new user
+3. List all users
+4. View indidvidual user
+5. Delete users
+6. Update all users
+
+
+**Anonymous** group user can
+1. Login
+2. List all users
+3. View and Update own detail
+
+Without login, no user can get access to the system.
