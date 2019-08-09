@@ -26,9 +26,9 @@ This example will illustrate how to set permission in drf based on user group.
 
 **Admin** group user can 
 1. Login
-2. Add new user
+2. Add a new user
 3. List all users
-4. View indidvidual user
+4. View individual user
 5. Delete users
 6. Update all users
 
